@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <iframe src="https://giphy.com/embed/3o6gE51uXycrKW6D84" width="420" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/jonny-magic-hot-dog-3o6gE51uXycrKW6D84">via GIPHY</a></p>
+</div>
+
 ### Hi there 👋
 
 <!--
